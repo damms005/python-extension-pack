@@ -12,6 +12,7 @@ This extension pack packages some of the most popular (and some of my favorite) 
 * [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - Quickly insert Python comment blocks with contextually inferred parameters for classes and methods based on multiple, selectable template patterns.
 * [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) - Correct python indentation in Visual Studio Code.
 * [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - Provides Jupyter notebook support for Python language, used for data science, scientific computing and machine learning.
+* [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb) - View database records in your Python projects right inside VS Code
 
 ## Want to see your extension added?
 
